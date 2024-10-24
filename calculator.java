@@ -12,7 +12,8 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Display options
+        // Display options 
+        //second commmit
         System.out.println("Simple Calculator");
         System.out.println("Choose an operation:");
         System.out.println("1: Addition (+)");
